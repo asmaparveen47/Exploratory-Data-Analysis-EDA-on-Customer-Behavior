@@ -18,6 +18,9 @@ This project delivers a targeted **Ad Hoc Analysis** on a retail dataset contain
 
 ### ⚡ The Loyalty Paradox
 * While customer retention is phenomenal—the absolute majority of users remain active for **2+ years**—the calculated correlation between customer active days and spending size is effectively zero (**0.01**).
+
+<img width="795" height="643" alt="Screenshot 2026-10-05 170647" src="https://github.com/user-attachments/assets/39a9f8c6-c69d-4abc-a0df-e3de1a61465b" />
+
 * **Business Takeaway:** Customer lifetime length does *not* automatically scale your revenue metrics. Long-term loyalists purchase identical basket sizes compared to brand-new accounts.
 
 ### 🌐 Market Independent Traits
